@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Szaid36800
+- 👋 Hi, I’m Syed Zaid
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ai&ds engineering
 - 💞️ I’m looking to collaborate on ...
