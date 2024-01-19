@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Syed Zaid
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ai&ds engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Artifical intelligence and data science engineering
+- 💞️ I’m looking to collaborate on many more things......
 - 📫 How to reach me szaid36800@gmail.com
 
 <!---
